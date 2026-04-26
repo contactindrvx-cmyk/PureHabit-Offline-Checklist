@@ -124,7 +124,7 @@ class _ProfileScreenState extends State<ProfileScreen>
       );
     } else if (isAboutUs) {
       return ProfileHeaderWidget(
-        image: AppImageAssets.henry,
+        image: AppImageAssets.logo,
         title: AppLocalizationHelper.translate(
             context, AppLocalizationKeys.appCreator),
       );
