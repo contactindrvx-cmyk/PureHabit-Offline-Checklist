@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.henry.habit_it">
+    package="com.aigrowthbox.purehabit">
    <application
-        android:label="Habit It"
+        android:label="PureHabit: Offline Checklist"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
