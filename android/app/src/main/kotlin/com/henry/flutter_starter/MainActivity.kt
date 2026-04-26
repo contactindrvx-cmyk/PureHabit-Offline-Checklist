@@ -1,4 +1,4 @@
-package com.henry.habit_it
+package com.aigrowthbox.purehabit
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterFragmentActivity
